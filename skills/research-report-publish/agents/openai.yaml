@@ -1,0 +1,4 @@
+interface:
+  display_name: "研报分析与发布"
+  short_description: "将附件研报整理为手机友好的 HTML，并增量发布报告目录与列表 JSON"
+  default_prompt: "使用 $research-report-publish 分析附件研报，生成 HTML 和目录数据，检查后增量发布到已配置的服务器。"
